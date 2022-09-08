@@ -11,7 +11,8 @@
         android:layout_width="260dp"
         android:layout_height="34dp"
         android:text="TextView"
-        android:textSize="@dimen/fontSizeHeader"
+        android:textAppearance="@style/Theme.ColorThemeApp"
+        android:textSize="@dimen/fontSizeLarge"
         tools:layout_editor_absoluteX="37dp"
         tools:layout_editor_absoluteY="60dp" />
 
@@ -22,6 +23,7 @@
         android:ems="10"
         android:inputType="textPersonName"
         android:text="Name"
+        android:textAppearance="@style/TextViewCustom"
         tools:layout_editor_absoluteX="37dp"
         tools:layout_editor_absoluteY="122dp" />
 

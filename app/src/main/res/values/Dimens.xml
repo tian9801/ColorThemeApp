@@ -2,9 +2,11 @@
 <resources>
     <dimen name="textViewWidth">70dp</dimen>
     <dimen name="textViewHeight">30dp</dimen>
-    <dimen name="fontSizeHeader">40dp</dimen>
-    <dimen name="fontSizeCaption">20dp</dimen>
-
+    <dimen name="editTextWidth">70dp</dimen>
+    <dimen name="editTextHeight">30dp</dimen>
+    <dimen name="fontSizeLarge">40dp</dimen>
+    <dimen name="fontSizeSmaller">20dp</dimen>
+    <dimen name="editTextPadding">10dp</dimen>
 
 
 </resources>
